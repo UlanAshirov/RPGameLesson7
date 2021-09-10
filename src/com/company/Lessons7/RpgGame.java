@@ -1,7 +1,7 @@
-package com.company.Lesson7;
+package com.company.Lessons7;
 
-import com.company.Lesson7.boss.Boss;
-import com.company.Lesson7.players.*;
+import com.company.Lessons7.boss.Boss;
+import com.company.Lessons7.players.*;
 
 public class RpgGame {
     public static int roundCounter = 0;

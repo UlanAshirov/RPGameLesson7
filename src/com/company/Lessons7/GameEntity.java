@@ -1,4 +1,4 @@
-package com.company.Lesson7;
+package com.company.Lessons7;
 
 public abstract class GameEntity {
     protected int health;

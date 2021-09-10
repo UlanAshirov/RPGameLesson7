@@ -1,8 +1,8 @@
-package com.company.Lesson7.players;
+package com.company.Lessons7.players;
 
-import com.company.Lesson7.AbilityType;
-import com.company.Lesson7.GameEntity;
-import com.company.Lesson7.IAbility;
+import com.company.Lessons7.AbilityType;
+import com.company.Lessons7.GameEntity;
+import com.company.Lessons7.IAbility;
 
 public abstract class Hero extends GameEntity implements IAbility {
 

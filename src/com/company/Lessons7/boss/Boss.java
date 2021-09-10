@@ -1,6 +1,6 @@
-package com.company.Lesson7.boss;
+package com.company.Lessons7.boss;
 
-import com.company.Lesson7.GameEntity;
+import com.company.Lessons7.GameEntity;
 
 import java.util.Random;
 

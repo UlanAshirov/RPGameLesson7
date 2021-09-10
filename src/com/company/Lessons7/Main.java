@@ -1,6 +1,6 @@
-package com.company.Lesson7;
+package com.company.Lessons7;
 
-import com.company.Lesson7.players.*;
+import com.company.Lessons7.players.*;
 
 public class Main {
     public static void main(String[] args) {

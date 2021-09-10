@@ -1,7 +1,7 @@
-package com.company.Lesson7.players;
+package com.company.Lessons7.players;
 
-import com.company.Lesson7.AbilityType;
-import com.company.Lesson7.boss.Boss;
+import com.company.Lessons7.AbilityType;
+import com.company.Lessons7.boss.Boss;
 
 public class Warrior extends Hero {
     public Warrior(int health, int damage) {
