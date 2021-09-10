@@ -11,8 +11,9 @@ public class Main {
         heroes[2] = new Hunter(215, 20);
         heroes[3] = new Magical(210, 10);
         for (Hero hero : heroes) {
+                System.out.println(hero.getClass().getSimpleName() + " применил способность " + hero.getAbility());
             System.out.println(hero.getClass().getSimpleName() + " - " + hero);
+            }
         }
-
     }
-}
+
